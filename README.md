@@ -58,8 +58,9 @@
     <img
       src="https://img.shields.io/badge/sdf3872@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf3924">
 </div>
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf3924">
+
 
 <!--
 **s-eun20/s-eun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
