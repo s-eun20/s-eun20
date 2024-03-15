@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf3924">
 </div>
 
 <br>
@@ -60,6 +59,7 @@
       src="https://img.shields.io/badge/sdf3872@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf3924">
 
 <!--
 **s-eun20/s-eun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
